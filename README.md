@@ -18,7 +18,7 @@ Ce projet est un blog simple comprenant un **frontend en Next.js** et un **backe
 
 -  **Express.js** : Framework léger pour construire des API REST.
 -  **jsonwebtoken (JWT)** : Gestion de l'authentification.
--  **MongoDB / PostgreSQL** (au choix) : Base de données pour stocker les articles et utilisateurs.
+-  **MongoDB** (au choix) : Base de données pour stocker les articles et utilisateurs.
 
 ## Installation
 
